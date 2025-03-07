@@ -13,9 +13,7 @@ This project aimed to:
 * Extract and present specific data for India, Yemen, and the United States.
 * Sort the data by confirmed and recovered cases for further insights.
 
-## Data Source
 
-[Specify the source of your data here. For example: "The data was obtained from the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) COVID-19 dataset."]
 
 ## Methodology
 
